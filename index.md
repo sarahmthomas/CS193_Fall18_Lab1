@@ -1,3 +1,8 @@
+# Sarah's first CS193 Lab
+Favorite things about Purdue CS193:
+- The fact that part of the class is useful tools that we can use in a professional setting
+- The fact that the class was designed specifically for students like me
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
